@@ -1,1 +1,1 @@
-worker: ./run
+worker: java -Xmx300m -jar server.jar nogui
