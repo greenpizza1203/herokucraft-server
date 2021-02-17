@@ -4,5 +4,11 @@
     "name": "greenpizza12",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f6eb2269-05ad-41ed-bfaf-53cd15290e37",
+    "name": "Creative",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
