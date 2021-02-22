@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-02-22 14:03:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-02-18 19:15:33 +0000"
@@ -95,9 +101,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-22 14:01:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-02-18 19:18:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-22 14:01:32 +0000"
     },
     "done": true
   },
@@ -263,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2021-02-22 12:45:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2021-02-18 19:15:35 +0000"
@@ -287,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-22 14:01:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2021-02-18 19:42:00 +0000"
@@ -308,6 +338,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2021-02-21 00:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-02-22 13:43:08 +0000"
     },
     "done": true
   },
@@ -454,6 +490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-22 14:01:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2021-02-18 19:13:40 +0000"
@@ -580,6 +622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2021-02-22 14:03:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2021-02-19 13:38:54 +0000"
@@ -631,6 +679,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2021-02-19 14:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2021-02-22 12:46:30 +0000"
     },
     "done": true
   },
@@ -751,6 +805,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2021-02-18 19:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-22 14:01:32 +0000"
     },
     "done": true
   },
@@ -898,9 +958,13 @@
       "minecraft:skeleton": "2021-02-18 19:29:13 +0000",
       "minecraft:ghast": "2021-02-19 15:50:19 +0000",
       "minecraft:hoglin": "2021-02-20 03:19:10 +0000",
+      "minecraft:magma_cube": "2021-02-22 14:11:07 +0000",
       "minecraft:spider": "2021-02-18 19:22:44 +0000",
       "minecraft:creeper": "2021-02-19 14:21:35 +0000",
       "minecraft:wither_skeleton": "2021-02-20 03:22:39 +0000",
+      "minecraft:piglin": "2021-02-22 12:42:38 +0000",
+      "minecraft:enderman": "2021-02-22 12:41:41 +0000",
+      "minecraft:silverfish": "2021-02-22 14:00:24 +0000",
       "minecraft:zombie": "2021-02-18 19:15:46 +0000"
     },
     "done": false
@@ -914,6 +978,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-02-18 19:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2021-02-22 13:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-02-22 13:11:30 +0000"
     },
     "done": true
   },
@@ -935,6 +1011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-22 14:01:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2021-02-18 19:42:00 +0000"
@@ -944,6 +1026,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-02-19 14:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-02-22 13:11:30 +0000"
     },
     "done": true
   },
@@ -1067,6 +1155,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-02-22 13:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-18 19:00:00 +0000"
@@ -1094,6 +1188,12 @@
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-02-19 14:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-22 14:01:32 +0000"
     },
     "done": true
   },
@@ -1187,6 +1287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-22 14:01:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-02-19 14:14:44 +0000"
@@ -1196,6 +1302,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2021-02-19 13:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-22 14:01:32 +0000"
     },
     "done": true
   },
@@ -1388,6 +1500,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-02-21 00:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-02-22 14:03:42 +0000"
     },
     "done": true
   },
@@ -1697,6 +1815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2021-02-22 13:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2021-02-18 19:13:40 +0000"
@@ -1714,11 +1838,16 @@
       "minecraft:cold_ocean": "2021-02-18 18:59:45 +0000",
       "minecraft:badlands_plateau": "2021-02-18 19:23:39 +0000",
       "minecraft:forest": "2021-02-19 13:56:42 +0000",
+      "minecraft:mountains": "2021-02-22 14:03:06 +0000",
       "minecraft:deep_cold_ocean": "2021-02-19 02:45:42 +0000",
+      "minecraft:desert": "2021-02-22 13:07:42 +0000",
       "minecraft:deep_frozen_ocean": "2021-02-19 13:54:19 +0000",
+      "minecraft:deep_lukewarm_ocean": "2021-02-22 13:06:21 +0000",
       "minecraft:badlands": "2021-02-18 19:08:41 +0000",
       "minecraft:beach": "2021-02-18 18:58:54 +0000",
       "minecraft:river": "2021-02-18 19:00:05 +0000",
+      "minecraft:lukewarm_ocean": "2021-02-22 13:05:22 +0000",
+      "minecraft:wooded_hills": "2021-02-22 13:08:44 +0000",
       "minecraft:wooded_badlands_plateau": "2021-02-18 19:09:27 +0000",
       "minecraft:swamp": "2021-02-19 13:59:42 +0000",
       "minecraft:plains": "2021-02-18 15:41:28 +0000"
@@ -2026,6 +2155,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2021-02-19 14:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2021-02-22 13:11:26 +0000"
     },
     "done": true
   },
